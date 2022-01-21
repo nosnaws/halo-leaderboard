@@ -1,0 +1,302 @@
+[
+  {
+    "data": {
+      "core": {
+        "summary": {
+          "kills": 10,
+          "deaths": 10,
+          "assists": 10,
+          "betrayals": 10,
+          "suicides": 10,
+          "vehicles": {
+            "destroys": 10,
+            "hijacks": 10
+          },
+          "medals": 10
+        },
+        "damage": {
+          "taken": 10,
+          "dealt": 10,
+          "average": 10
+        },
+        "shots": {
+          "fired": 10,
+          "landed": 10,
+          "missed": 10,
+          "accuracy": 10
+        },
+        "breakdowns": {
+          "kills": {
+            "melee": 10,
+            "grenades": 10,
+            "headshots": 10,
+            "power_weapons": 10
+          },
+          "assists": {
+            "emp": 10,
+            "driver": 10,
+            "callouts": 10
+          },
+          "matches": {
+            "wins": 10,
+            "losses": 10,
+            "left": 10,
+            "draws": 10
+          }
+        },
+        "kda": 10,
+        "kdr": 10,
+        "total_score": 10
+      },
+      "matches_played": 10,
+      "time_played": {
+        "seconds": 10,
+        "human": "sample_string"
+      },
+      "win_rate": 10
+    },
+    "additional": {
+      "gamertag": "sample_string"
+    }
+  },
+  {
+    "data": {
+      "core": {
+        "summary": {
+          "kills": 10,
+          "deaths": 10,
+          "assists": 10,
+          "betrayals": 10,
+          "suicides": 10,
+          "vehicles": {
+            "destroys": 10,
+            "hijacks": 10
+          },
+          "medals": 10
+        },
+        "damage": {
+          "taken": 10,
+          "dealt": 10,
+          "average": 10
+        },
+        "shots": {
+          "fired": 10,
+          "landed": 10,
+          "missed": 10,
+          "accuracy": 10
+        },
+        "breakdowns": {
+          "kills": {
+            "melee": 10,
+            "grenades": 10,
+            "headshots": 10,
+            "power_weapons": 10
+          },
+          "assists": {
+            "emp": 10,
+            "driver": 10,
+            "callouts": 10
+          },
+          "matches": {
+            "wins": 10,
+            "losses": 10,
+            "left": 10,
+            "draws": 10
+          }
+        },
+        "kda": 10,
+        "kdr": 10,
+        "total_score": 10
+      },
+      "matches_played": 10,
+      "time_played": {
+        "seconds": 10,
+        "human": "sample_string"
+      },
+      "win_rate": 10
+    },
+    "additional": {
+      "gamertag": "sample_string"
+    }
+  },
+  {
+    "data": {
+      "core": {
+        "summary": {
+          "kills": 10,
+          "deaths": 10,
+          "assists": 10,
+          "betrayals": 10,
+          "suicides": 10,
+          "vehicles": {
+            "destroys": 10,
+            "hijacks": 10
+          },
+          "medals": 10
+        },
+        "damage": {
+          "taken": 10,
+          "dealt": 10,
+          "average": 10
+        },
+        "shots": {
+          "fired": 10,
+          "landed": 10,
+          "missed": 10,
+          "accuracy": 10
+        },
+        "breakdowns": {
+          "kills": {
+            "melee": 10,
+            "grenades": 10,
+            "headshots": 10,
+            "power_weapons": 10
+          },
+          "assists": {
+            "emp": 10,
+            "driver": 10,
+            "callouts": 10
+          },
+          "matches": {
+            "wins": 10,
+            "losses": 10,
+            "left": 10,
+            "draws": 10
+          }
+        },
+        "kda": 10,
+        "kdr": 10,
+        "total_score": 10
+      },
+      "matches_played": 10,
+      "time_played": {
+        "seconds": 10,
+        "human": "sample_string"
+      },
+      "win_rate": 10
+    },
+    "additional": {
+      "gamertag": "sample_string"
+    }
+  },
+  {
+    "data": {
+      "core": {
+        "summary": {
+          "kills": 10,
+          "deaths": 10,
+          "assists": 10,
+          "betrayals": 10,
+          "suicides": 10,
+          "vehicles": {
+            "destroys": 10,
+            "hijacks": 10
+          },
+          "medals": 10
+        },
+        "damage": {
+          "taken": 10,
+          "dealt": 10,
+          "average": 10
+        },
+        "shots": {
+          "fired": 10,
+          "landed": 10,
+          "missed": 10,
+          "accuracy": 10
+        },
+        "breakdowns": {
+          "kills": {
+            "melee": 10,
+            "grenades": 10,
+            "headshots": 10,
+            "power_weapons": 10
+          },
+          "assists": {
+            "emp": 10,
+            "driver": 10,
+            "callouts": 10
+          },
+          "matches": {
+            "wins": 10,
+            "losses": 10,
+            "left": 10,
+            "draws": 10
+          }
+        },
+        "kda": 10,
+        "kdr": 10,
+        "total_score": 10
+      },
+      "matches_played": 10,
+      "time_played": {
+        "seconds": 10,
+        "human": "sample_string"
+      },
+      "win_rate": 10
+    },
+    "additional": {
+      "gamertag": "sample_string"
+    }
+  },
+  {
+    "data": {
+      "core": {
+        "summary": {
+          "kills": 10,
+          "deaths": 10,
+          "assists": 10,
+          "betrayals": 10,
+          "suicides": 10,
+          "vehicles": {
+            "destroys": 10,
+            "hijacks": 10
+          },
+          "medals": 10
+        },
+        "damage": {
+          "taken": 10,
+          "dealt": 10,
+          "average": 10
+        },
+        "shots": {
+          "fired": 10,
+          "landed": 10,
+          "missed": 10,
+          "accuracy": 10
+        },
+        "breakdowns": {
+          "kills": {
+            "melee": 10,
+            "grenades": 10,
+            "headshots": 10,
+            "power_weapons": 10
+          },
+          "assists": {
+            "emp": 10,
+            "driver": 10,
+            "callouts": 10
+          },
+          "matches": {
+            "wins": 10,
+            "losses": 10,
+            "left": 10,
+            "draws": 10
+          }
+        },
+        "kda": 10,
+        "kdr": 10,
+        "total_score": 10
+      },
+      "matches_played": 10,
+      "time_played": {
+        "seconds": 10,
+        "human": "sample_string"
+      },
+      "win_rate": 10
+    },
+    "additional": {
+      "gamertag": "sample_string"
+    }
+  }
+]
