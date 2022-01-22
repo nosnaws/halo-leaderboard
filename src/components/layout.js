@@ -29,7 +29,6 @@ const Layout = ({ children }) => {
       <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
       <div
         css={css`
-          height: 100vh;
           background-color: #0f1221;
           color: white;
           padding-top: 1.5rem;
