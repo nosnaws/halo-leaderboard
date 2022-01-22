@@ -4,8 +4,15 @@ html {
   font: 112.5%/1.45em georgia, serif, sans-serif;
   box-sizing: border-box;
   overflow-y: scroll;
+
+  /* added by me */
+  height: -webkit-fill-available;
 }
 body {
+  /* added by me */
+  min-height: 100vh;
+  min-height: -webkit-fill-available;
+
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

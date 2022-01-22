@@ -16,21 +16,22 @@ const Board = ({ stats, title, className }: BoardProps) => (
   <div
     className={className}
     css={css`
-      border: 2px solid var(--border-color);
+      border-radius: 4px;
+      box-shadow: 0 0 5px 0 var(--border-color);
       padding: 1rem;
     `}
   >
-    <h3>{title}</h3>
+    <h3 css={css``}>{title}</h3>
     {stats.map((stat, index) => (
       <div
         key={index}
         css={css`
+          border-top: 1px solid var(--border-color);
           display: flex;
           flex-direction: row;
           justify-content: space-between;
           align-items: center;
           width: 100%;
-          border: 1px solid var(--border-color);
           padding: 0.5rem;
           margin-bottom: 0.2rem;
         `}
