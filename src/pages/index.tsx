@@ -26,6 +26,10 @@ const Leaderboards: React.FC<PageProps<PlayerServiceRecordsQuery>> = ({
           display: grid;
           grid-template-columns: 1fr 1fr;
           grid-gap: 1rem;
+
+          @media (max-width: 500px) {
+            grid-template-columns: 1fr;
+          }
         `}
       >
         <WinsBoard records={records} />
