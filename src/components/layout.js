@@ -26,19 +26,23 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
       <div
         css={css`
-          height: 100%;
+          height: 100vh;
           background-color: #0f1221;
           color: white;
-          padding-top: 1.5rem;
           --border-color: #6085a2;
+
+          @media (max-width: 500px) {
+            height: 100%;
+          }
         `}
       >
+        <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
         <div
           css={css`
-            margin: 0 auto;
+            margin-top: 5rem;
+            margin: 1.5rem auto 0 auto;
             max-width: 960px;
             padding: 0 1.0875rem 1.45rem;
           `}
